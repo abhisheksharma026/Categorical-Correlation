@@ -4,4 +4,6 @@ Finding Association between Categorical Variables so as to find (say) a ranking 
 
 Code inspired and referenced from article by Shaked Zychlinski. 
 
-Help taken from Stack-Overflow.
+Help taken from Stack-Overflow/Wikipedia.
+
+Please download to read the html file easily.
